@@ -1,5 +1,5 @@
 # TelRan School
 
-# Homeworks
+# FrontEnd Homeworks
 
--[Homework-1_07_12](https://github.com/AlexDolz/FrontEnd-Homeworks/tree/main/Homework-1_07_12)
+- [Homework-1_07_12](https://github.com/AlexDolz/FrontEnd-Homeworks/tree/main/Homework-1_07_12)
