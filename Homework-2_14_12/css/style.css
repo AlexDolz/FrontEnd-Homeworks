@@ -176,10 +176,10 @@ figure {
     width: 475px;
   }
   .services__images__block {
-    justify-items: center;
+    justify-content: center;
     padding-bottom: 171px;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 0;
+    grid-template-columns: 470px 470px;
+    gap: 25px;
   }
   .services__block {
     padding-bottom: 0;
